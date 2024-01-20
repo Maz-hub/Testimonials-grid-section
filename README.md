@@ -12,10 +12,6 @@ Users should be able to:
 
 ![](./design/Screenshot%202024-01-20%20at%2013-37-56%20Frontend%20Mentor%20Testimonials.png)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
